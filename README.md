@@ -6,4 +6,5 @@
 - AOT
 - Katekyo Hitman Reborn!
 - Magi
+- Dragon Ball
 - Girl's Last Tour
